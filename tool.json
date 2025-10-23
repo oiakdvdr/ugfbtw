@@ -1,0 +1,386 @@
+[
+    {
+        "id": "tool1",
+        "shop": "Môi Trường",
+        "tools": [
+            {
+                "id": "mt1",
+                "name": "C++ (PG)",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/CRuntime.exe"
+            },
+            {
+                "id": "mt2",
+                "name": "Python",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/python312.exe"
+            },
+            {
+                "id": "mt3",
+                "name": "JavaPlatForm",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/DBJava.jar"
+            },
+            {
+                "id": "mt4",
+                "name": "Net Beans",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/netbeans.exe"
+            },
+            {
+                "id": "mt5",
+                "name": "Dotnet RunTime",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/DotnetRunTime.exe"
+            },
+            {
+                "id": "mt6",
+                "name": "XamPP",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/xampp.exe"
+            },
+            {
+                "id": "mt6",
+                "name": "NodeJS",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/node.msi"
+            },
+            {
+                "id": "mt6",
+                "name": "Git",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/Git.exe"
+            },
+            {
+                "id": "mt6",
+                "name": "Java17",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/java.msi"
+            }
+        ]
+    },
+    {
+        "id": "tool2",
+        "shop": "Linh tinh",
+        "tools": [
+            {
+                "id": "lt1",
+                "name": "Activator",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/Activator.rar"
+            },
+            {
+                "id": "lt2",
+                "name": "Auto Check",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/AutoCheck.exe"
+            },
+            {
+                "id": "lt3",
+                "name": "Emulator Java",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/EmulatorJava.zip"
+            },
+            {
+                "id": "lt4",
+                "name": "Dragon Ball Java",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/DBJava.jar"
+            },
+            {
+                "id": "lt5",
+                "name": "Power Pet",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/power.rar"
+            },
+            {
+                "id": "lt6",
+                "name": "Giảm CPU",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/GiamCPU.exe"
+            }
+        ]
+    },
+    {
+        "id": "tool3",
+        "shop": "Dũng Phạm",
+        "tools": [
+            {
+                "id": "dp1",
+                "name": "Auto Giảm Sức Mạnh",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/dp1_GiamSucManh.zip"
+            },
+            {
+                "id": "dp2",
+                "name": "Auto Set Kích Hoạt",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/dp2_SKH.zip"
+            },
+            {
+                "id": "dp3",
+                "name": "Auto Nhiện Vụ KOL",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/dp3_MissionKOL.zip"
+            }
+        ]
+    },
+    {
+        "id": "tool4",
+        "shop": "Tiến Võ",
+        "tools": [
+            {
+                "id": "tv1",
+                "name": "Auto Set Kích Hoạt",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tv1_SKH.zip"
+            },
+            {
+                "id": "tv2",
+                "name": "Auto Pet",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tv2_AutoPet.zip"
+            },
+            {
+                "id": "tv3",
+                "name": "Auto Giảm Sức Mạnh",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tv3_GSM.zip"
+            },
+            {
+                "id": "tv4",
+                "name": "Auto Săn Boss( ở dơ, trộm, sói, ...)",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tv4_SanBoss.zip"
+            }
+        ]
+    },
+    {
+        "id": "tool5",
+        "shop": "ThanhLc*",
+        "tools": [
+            {
+                "id": "tlc1",
+                "name": "Auto Up Kilis",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlc1_Killis.zip"
+            },
+            {
+                "id": "tlc2",
+                "name": "Auto Skil 9",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlc2_AutoSkill9.zip"
+            },
+            {
+                "id": "tlc3",
+                "name": "Auto Pet",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlc3_AutoPet.zip"
+            },
+            {
+                "id": "tlc4",
+                "name": "Auto Kilis + MVBT 2/3 + GLT",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlc4_KiliMvbtGlt.zip"
+            }
+        ]
+    },
+    {
+        "id": "tool6",
+        "shop": "ThanhLc Mới",
+        "tools": [
+            {
+                "id": "tlcm1",
+                "name": "Auto Nhặt Ngọc Hàng Ngày",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm1_NhatNgoc.zip"
+            },
+            {
+                "id": "tlcm2",
+                "name": "Auto Nhiệm Vụ Bò Mộng",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm2_NVBT.zip"
+            },
+            {
+                "id": "tlcm3",
+                "name": "Auto Train Quái",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm3_Train.zip"
+            },
+            {
+                "id": "tlcm4",
+                "name": "Auto Giáp Tập Luyện",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm4_GLT.zip"
+            },
+            {
+                "id": "tlcm5",
+                "name": "Auto Bán Đồ Rác",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm5_BanDoRac.zip"
+            },
+            {
+                "id": "tlcm6",
+                "name": "Auto Pet (Java)",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcm6_PetJava.zip"
+            }
+        ]
+    },
+    {
+        "id": "tool7",
+        "shop": "ThanhLc Cũ",
+        "tools": [
+            {
+                "id": "tlcc1",
+                "name": "Auto Godzilla & Kong",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcc1_Godzilla.Kong.zip"
+            },
+            {
+                "id": "tlcc2",
+                "name": "Auto Pet",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcc2_AutoPet.zip"
+            },
+            {
+                "id": "tlcc3",
+                "name": "Auto Skill 9",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcc3_Skill9.zip"
+            },
+            {
+                "id": "tlcc4",
+                "name": "Auto Mảnh vỡ bông tai",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcc4_MVBT.zip"
+            },
+            {
+                "id": "tlcc5",
+                "name": "Auto Set kích hoạt",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tlcc5_SKH.zip"
+            }
+        ]
+    },
+    {
+        "id": "tool7",
+        "shop": "Phạm Giang",
+        "tools": [
+            {
+                "id": "pg1",
+                "name": "Auto Nhận Thưởng NRD",
+                "link": "###"
+            },
+                        {
+                "id": "pg2",
+                "name": "Auto Train Quái",
+                "link": "###"
+            }
+        ]
+    },
+    {
+        "id": "tool8",
+        "shop": "Tuấn Xinh",
+        "tools": [
+            {
+                "id": "tx1",
+                "name": "Auto Check Acc",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx1_CheckAcc.zip"
+            },
+            {
+                "id": "tx2",
+                "name": "Auto Tạo Bang Hội",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx2_TaoPt.zip"
+            },
+            {
+                "id": "tx3",
+                "name": "Auto Điểm Danh Bang Hội",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx3_DiemDanhPT.zip"
+            },
+            {
+                "id": "tx4",
+                "name": "Auto Nhiệm Vụ Bang Hội",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx4_NhiemVuBangHoi.zip"
+            },
+            {
+                "id": "tx5",
+                "name": "Auto Tạo Tên Nhân Vật",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx5_TaoTenNV.zip"
+            },
+            {
+                "id": "tx6",
+                "name": "Auto Up Zin",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx6_UpZin.zip"
+            },
+            {
+                "id": "tx7",
+                "name": "Auto Up Sức Mạnh",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx7_UpSucManh.zip"
+            },
+            {
+                "id": "tx8",
+                "name": "Auto Up Đồ Sao",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx8_UpDoSao.zip"
+            },
+            {
+                "id": "tx9",
+                "name": "Auto Gom Đồ Sao",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx9_GomDoSao.zip"
+            },
+            {
+                "id": "tx10",
+                "name": "Auto Nhặt Ngọc Hàng Ngày",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx10_NhatNgoc.zip"
+            },
+            {
+                "id": "tx11",
+                "name": "Auto Leo Tháp",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx11_LeoThap.zip"
+            },
+            {
+                "id": "tx12",
+                "name": "Auto Nhận Sức Mạnh",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx12_NhanSucManh.zip"
+            },
+            {
+                "id": "tx13",
+                "name": "Auto Gom/Phát Item",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx13_GomPhatItem.zip"
+            },
+            {
+                "id": "tx14",
+                "name": "Auto Gom Ép Nro",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx14_GomEpNro.zip"
+            },
+            {
+                "id": "tx15",
+                "name": "Auto Nhiệm Vụ Map Nappa",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx15_NVNappa.zip"
+            },
+            {
+                "id": "tx16",
+                "name": "Auto Nhiệm vụ Boss",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx16_NhiemVuBoss.zip"
+            },
+            {
+                "id": "tx17",
+                "name": "Auto Win Trung Uý Trắng",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx17_WinTUT.zip"
+            },
+            {
+                "id": "tx18",
+                "name": "Auto Đại Hội Võ Thuật",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx18_DaiHoiVoThuat.zip"
+            },
+            {
+                "id": "tx19",
+                "name": "Auto Đại Ma Vương",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx19_DaiMaVuong.zip"
+            },
+            {
+                "id": "tx20",
+                "name": "Auto Tàu Pảy Pảy",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx20_T77.zip"
+            },
+            {
+                "id": "tx21",
+                "name": "Auto Up Bản Đồ Kho Báu",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx21_UpBDKB.zip"
+            },
+            {
+                "id": "tx22",
+                "name": "Auto UP Capun Kì Bí",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx22_UPCSKB.zip"
+            },
+            {
+                "id": "tx23",
+                "name": "Auto Học Skill",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx23_HocSkill.zip"
+            },
+            {
+                "id": "tx24",
+                "name": "Auto Nhận Ngọc Bò Mộng",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx24_NhanNgocBM.zip"
+            },
+            {
+                "id": "tx25",
+                "name": "Auto Nhiệm Vụ Hàng Ngày",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx25_NhiemVuHangNgay.zip"
+            },
+            {
+                "id": "tx26",
+                "name": "Auto Train Quái",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx26_Train.zip"
+            },
+            {
+                "id": "tx27",
+                "name": "Auto Up Set Kích Hoạt",
+                "link": "https://github.com/oiakdvdr/ugfbtw/releases/download/v1.0.0/tx27_UpSetKichHoat.zip"
+            }
+        ]
+    }
+]
